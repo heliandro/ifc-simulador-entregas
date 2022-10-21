@@ -1,10 +1,13 @@
 ## Projeto
 
-Este é um projeto de simulação de entregas. O objetivo é simular uma corrida/entrega (sem a feature de produto) e mostrar as entregas em tempo real no mapa.
+Projeto de simulação de entregas. 
 
-Este projeto foi desenvolvido com base nos videos do canal do youtube Full Cycle.
+O objetivo é simular uma corrida/entrega (sem a feature de produto) e mostra-las em tempo real no mapa.
 
-Fiz melhorias no projeto original, como por exemplo, configurar o docker-compose para subir o broker kafka, zookeeper e o painel do kafka. Além de atualizar as tecnologias para as ultimas versões.
+Nota:
+A base desse projeto é o simulador de entregas, projeto este que foi desenvolvido na Imersão Full Cycle v10 do canal [Full Cycle](https://www.youtube.com/c/FullCycle).
+
+Esse projeto tem modificações significativas se comparado ao original, como por exemplo, a infraestrutura, bibliotecas diferentes, versoes atualizadas das linguagens e frameworks, etc. Resumindo, é uma recriação do projeto original.
 
 ## Arquitetura
 
